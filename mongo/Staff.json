@@ -1,0 +1,22 @@
+{"sid": 1,"fName": "Sam", "lName":"Cotton", "dob":{"$date":"1986-04-01"}, "phoneNumber":"+64223278952","email":"Sam.C@zoo.com","address":{
+	"streetNumber":32, "streetName":"Rim Road", "suburb":"Claudlands", "city":"Hamilton", "postCode":"3216"},
+"sex":"M","oversees":[
+	{"latinName":"Arachnida"},{"latinName":"Carnivora"},{"latinName":"Apterygiformes"},{"latinName":"Proboscidea"},{"latinName":"Diprotodontia"},{"latinName":"Perissodactyla"}
+]}
+{"sid": 2,"fName": "Grace", "lName":"White", "dob":{"$date":"1996-07-24"}, "phoneNumber":"0246549875","email":"GraceWhite547@hotmail.com","address":{
+	"streetNumber":7396, "streetName":"SH1", "suburb":"Karapiro", "city":"Waikato", "postCode":"3472"},
+"clinic":"Karapiro Vets","sex":"F"}
+{"sid": 3,"fName": "Bruce", "lName":"Batton", "dob":{"$date":"1975-07-13"}, "phoneNumber":"0225768945","email":"BrucieTheBest@gmail.com","address":{
+	"streetNumber":32, "streetName":"Masters Ave", "suburb":"Silverdale", "city":"Hamilton", "postCode":"3216"},
+"sex":"M","oversees":[
+	{"latinName":"Arachnida"},{"latinName":"Carnivora"},{"latinName":"Apterygiformes"},{"latinName":"Proboscidea"},{"latinName":"Perissodactyla"}
+]}
+{"sid": 4,"fName": "Bryce", "lName":"Trainer", "dob":{"$date":"1998-07-24"}, "phoneNumber":"0224519736","email":"BryceTrainsALot@outlook.com","address":{
+	"streetNumber": 54, "streetName":"Hillcrest rd", "suburb":"Hillcrest", "city":"Hamilton", "postCode":"3216"},
+"clinic":"Newstead Vets","sex":"F"}
+{"sid": 5,"fName": "Kendal", "lName":"Tanner", "dob":{"$date":"2001-01-16"}, "phoneNumber":"0219843275","email":"kt175@notReal.students.waikato.ac.nz","address":{
+	"streetNumber":3, "streetName":"Paul Close", "suburb":"Hillcrest", "city":"Hamilton", "postCode":"3216"},
+"sex":"F","oversees":[
+	{"latinName":"Apterygiformes"},{"latinName":"Diprotodontia"}
+]}
+

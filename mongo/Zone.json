@@ -1,0 +1,26 @@
+{ "name":"Africa", "colour":"Yellow", "hexcode":"FFFF00", "enclosures":[
+	{"eid":2, "name":"Savnna Herds", "biome":"Savanna","eSize": 847, "animal":[
+		{"aid":10},{"aid":11},{"aid":19},{"aid":20},{"aid":21},{"aid":22},{"aid":23},{"aid":24}
+	]},
+	{"eid":3, "name":"Lions", "biome":"Savanna","eSize": 657, "animal":[
+		{"aid":3},{"aid":4},{"aid":5},{"aid":6}
+	]}
+]}
+{ "name":"Native", "colour":"Green", "hexcode":"008000", "enclosures":[
+	{"eid":1, "name":"Mexican Terantula", "biome":"Arrid","eSize": 2, "animal":[
+		{"aid":2}
+	]},
+	{"eid":91, "name":"Black Widow","biome":"Jungle","eSize": 2, "animal":[
+		{"aid":1}
+	]},
+	{"eid":4, "name":"Kiwi", "biome":"Forest","eSize": 42, "animal":[
+		{"aid":7},{"aid":8},{"aid":9}
+	]},
+	{"eid":5, "name":"Forest", "biome":"Forest","eSize": 210}
+]}
+{ "name":"Australia", "colour":"Red", "hexcode":"E4002B","enclosures":[
+	{"eid":6, "name":"Marsupials", "biome":"Woodland","eSize": 374, "animal":[
+		{"aid":12},{"aid":13},{"aid":14},{"aid":15},{"aid":16},{"aid":17},{"aid":18}
+	]},
+	{"eid":90, "name":"Australian Bush", "biome":"Forest","eSize": 434}
+]}

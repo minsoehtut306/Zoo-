@@ -1,0 +1,55 @@
+{"latinName":"Arachnida", "commonName":"Spider","species":[
+	{"latinName":"Latrodectus occidentalis", "commonName":"Mexican Black Widow Spider", "requiredBiome":"Jungle","animals":[
+		{"aid":1,"sex":"M","feedingInterval": 12, "name":"Roberto","weight": 1.0, "originCountry":"MEX", "dob":{"$date":"2023-04-21"}}
+	]},
+	{"latinName":"Aphonopelma chalcodes", "commonName":"western desert tarantula", "requiredBiome":"Arrid","animals":[
+		{"aid":2, "sex":"F","feedingInterval": 48, "name":"Chika","weight": 150.0, "originCountry":"USA", "dob":{"$date":"2013-05-30"}}
+	]}
+]}
+{"latinName":"Carnivora", "commonName":"Carnivores","species":[
+	{"latinName":"Panthera leo", "commonName":"Lion", "requiredBiome":"Savanna","animals":[
+		{"aid":3, "sex":"M","feedingInterval": 24, "name":"Leo","weight": 212345.0, "originCountry":"TZA", "dob":{"$date":"2017-04-11"}},
+		{"aid":4, "sex":"F","feedingInterval": 24, "name":"Sarah","weight": 120334.0, "originCountry":"TZA", "dob":{"$date":"2020-04-19"}},
+		{"aid":5,"sex":"F","feedingInterval": 24, "name":"Lily","weight": 140342.0, "originCountry":"TZA", "dob":{"$date":"2019-07-17"}},
+		{"aid":6, "sex":"F","feedingInterval": 24, "name":"Stephanie","weight": 60376.0, "originCountry":"TZA", "dob":{"$date":"2024-11-12"}}
+	]}
+]}
+{"latinName":"Apterygiformes", "commonName":"Kiwi","species":[
+	{"latinName":"Apteryx haastii", "commonName":"Great Spotted Kiwi", "requiredBiome":"Forest", "animals":[
+		{"aid":7, "sex":"M","feedingInterval": 24, "name":"Tama","weight": 2053.0, "originCountry":"NZL", "dob":{"$date":"1994-01-01"}},
+		{"aid":8, "sex":"M","feedingInterval": 24, "name":"Richie","weight": 1934.0, "originCountry":"NZL", "dob":{"$date":"1997-12-31"}},
+		{"aid":9, "sex":"F","feedingInterval": 24, "name":"Grace","weight": 2513.0, "originCountry":"NZL", "dob":{"$date":"2015-03-03"}}
+	]}
+]}
+{"latinName":"Proboscidea", "commonName":"Elephant","species":[
+	{"latinName":"Loxodonta africana", "commonName":"African Bush Elephant", "requiredBiome":"Savanna", "animals":[
+		{"aid":10, "sex":"F","feedingInterval": 12, "name":"Tiffany","weight": 6134000.0, "originCountry":"ZAF", "dob":{"$date":"1992-07-19"}},
+		{"aid":11, "sex":"M","feedingInterval": 12, "name":"Dumbo","weight": 3240000.0, "originCountry":"ZAF", "dob":{"$date":"1989-12-03"}}
+	]},
+	{"latinName":"Diceros bicornis", "commonName":"Black Rhinoceros", "requiredBiome":"Savanna", "animals":[
+		{"aid":24, "sex":"F","feedingInterval": 12, "name":"Bertha","weight": 1450000.0, "originCountry":"ZAF", "dob":{"$date":"1985-04-23"}}
+]}
+]}
+{"latinName":"Diprotodontia", "commonName":"Marsupials","species":[
+	{"latinName":"Macropus giganteus", "commonName":"Eastern Grey Kangaroo", "requiredBiome":"Woodland", "animals":[
+		{"aid":12, "sex":"M","feedingInterval": 12, "name":"Tigger","weight": 17300.0, "originCountry":"AUS", "dob":{"$date":"2004-11-12"}},
+		{"aid":13, "sex":"F","feedingInterval": 12, "name":"Zongo","weight": 19200.0, "originCountry":"AUS", "dob":{"$date":"2005-12-13"}},
+		{"aid":14, "sex":"F","feedingInterval": 12, "name":"Skippy","weight": 17500.0, "originCountry":"AUS", "dob":{"$date":"2013-01-14"}}
+	]},
+	{"latinName":"Notamacropus rufogriseus", "commonName":"Red-Necked Wallaby", "requiredBiome":"Woodland", "animals":[
+		{"aid":15, "sex":"M","feedingInterval": 12, "name":"Bazza","weight": 19430.0, "originCountry":"AUS", "dob":{"$date":"2012-05-23"}},
+		{"aid":16, "sex":"M","feedingInterval": 12, "name":"Steve","weight": 17800.0, "originCountry":"AUS", "dob":{"$date":"2017-08-06"}},
+		{"aid":17, "sex":"F","feedingInterval": 12, "name":"Anette","weight": 13210.0, "originCountry":"AUS", "dob":{"$date":"2015-08-27"}},
+		{"aid":18, "sex":"F","feedingInterval": 12, "name":"Coutney","weight": 3325.0, "originCountry":"AUS", "dob":{"$date":"2025-01-17"}}
+	]}
+]}
+{"latinName":"Perissodactyla", "commonName":"horses, added, zebra","species":[
+	{"latinName":"Equus quagga", "commonName":"Plains Zebra", "requiredBiome":"Savanna", "animals":[
+		{"aid":19, "sex":"M","feedingInterval": 12, "name":"Stripy","weight": 412900.0, "originCountry":"NAM", "dob":{"$date":"1987-01-16"}},
+		{"aid":20, "sex":"M","feedingInterval": 12, "name":"Clopper","weight": 390000.0, "originCountry":"NAM", "dob":{"$date":"1996-02-17"}},
+		{"aid":21, "sex":"F","feedingInterval": 12, "name":"Jess","weight": 375300.0, "originCountry":"NAM", "dob":{"$date":"1997-04-23"}},
+		{"aid":22, "sex":"F","feedingInterval": 12, "name":"Fran","weight": 402300.0, "originCountry":"NAM", "dob":{"$date":"2007-05-28"}},
+		{"aid":23, "sex":"F","feedingInterval": 12, "name":"Stella","weight": 401400.0, "originCountry":"NAM", "dob":{"$date":"2017-07-14"}}
+	]}
+]}
+

@@ -1,0 +1,8 @@
+{"staffID":2,"animalID": 19, "datetime":{"$date":"2025-04-03T10:30:00"}, "care":"Trimmed Hoofs"}
+{"staffID":2,"animalID": 20, "datetime":{"$date":"2025-04-03T10:40:00"}, "care":"Trimmed Hoofs"}
+{"staffID":2,"animalID": 21, "datetime":{"$date":"2025-04-03T10:50:00"}, "care":"Trimmed Hoofs"}
+{"staffID":2,"animalID": 22, "datetime":{"$date":"2025-04-03T11:00:00"}, "care":"Trimmed Hoofs"}
+{"staffID":2,"animalID": 23, "datetime":{"$date":"2025-04-03T11:10:00"}, "care":"Trimmed Hoofs"}
+{"staffID":4,"animalID": 8, "datetime":{"$date":"2025-01-06T11:10:00"}, "care":"Trouble Breathing", "notes":"The kiwi seemed to have trouble breathing. Coming back in 2 days for further Chechup."}
+{"staffID":4,"animalID": 8, "datetime":{"$date":"2025-01-08T12:10:00"}, "care":"Trouble Breathing", "notes":"Medicine seemed to have worked. No further care needed"}
+
