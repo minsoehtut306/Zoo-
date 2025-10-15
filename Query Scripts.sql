@@ -1,4 +1,3 @@
--- still work in progress 
 SELECT *
 FROM m2l_Feed
 WHERE staffID = 1 AND animalID = 1;
